@@ -1,4 +1,4 @@
-This Python script analyzes the internal architecture of my C++ project "Image Processing" by scanning all header (.h, .hpp) and source (.cpp) files in a chosen directory. 
+This Python script analyzes the internal architecture of my C++ project "Image Processing" by scanning all header (.h, .hpp) and source (.cpp) files.
 
 https://github.com/Julien186design/Image-Processing
 
