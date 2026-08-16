@@ -2,7 +2,7 @@ import os
 from analyser import CPPAnalyzer
 
 # Configuration: Use absolute paths as requested
-PROJECT_DIR = "[...]/julien/CLionProjects/Image and video processing" # Change this to your actual path
+PROJECT_DIR = "[...]/Image and video processing" # Change this to your actual path
 OUTPUT_DIR = os.path.join(PROJECT_DIR, "Dependency trees")
 
 
